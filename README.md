@@ -1,2 +1,2 @@
-# git_github
-Conceitos básicos do uso do Git / GitHub
+# Git / Git Hub - Princípios Usuais
+Conceitos básicos 
