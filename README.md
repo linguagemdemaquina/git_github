@@ -195,7 +195,7 @@ git merge <nome_da_branch> -m "mensagem do merge"
 
 ---
 
-**💡 Dica:** Use um editor como VS Code com extensões Git para facilitar ainda mais o versionamento visual.
+**💡 Dica 1:** Use um editor como VS Code com extensões Git para facilitar ainda mais o versionamento visual.
+**💡 Dica 2:** Utilizar o GitHub Desktop pode ser também um grande facilitador em suas rotinas.  
 
 ---
-
